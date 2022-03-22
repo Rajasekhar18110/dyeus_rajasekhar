@@ -8,9 +8,9 @@ function Navbar() {
     return (
         <div className="navbar">
             <div>
-                <img className="menu" src={menu}></img>
-                <img className="cart" src={cart}></img>
-                <img src={bell}></img>
+                <img className="menu" src={menu} alt="menu"></img>
+                <img className="cart" src={cart} alt="cart"></img>
+                <img src={bell} alt="bell"></img>
             </div>
         </div>
     )

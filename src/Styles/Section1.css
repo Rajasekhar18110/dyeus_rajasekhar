@@ -1,21 +1,26 @@
 .section1 {
+    position: relative;
     height: 1622px;
+    width: 375px;
+    /* top: 63px; */
     background: linear-gradient(
         180deg,
         #fff6fb 0%,
         #e7f6fc 33.33%,
         rgba(213, 224, 255, 0) 100%
     );
+    z-index: -1;
 }
 
-.diana {
-    position: relative;
-    width: 183px;
+.p1 {
+    /* About Diana */
+    position: absolute;
     height: 30px;
     left: 96px;
-    top: 43px;
+    top: 53px;
+    margin: 0px;
 
-    font-family: "Reptile";
+    font-family: "Spectral", serif;
     font-style: normal;
     font-weight: 500;
     font-size: 33px;
@@ -25,11 +30,12 @@
 }
 
 .p2 {
-    position: relative;
+    /* A platform that looks out for you */
+    position: absolute;
     width: 290px;
     height: 23px;
     left: 42px;
-    top: 37px;
+    top: 100px;
 
     font-family: "Quicksand", sans-serif;
     font-style: normal;
@@ -44,11 +50,12 @@
 }
 
 .p3 {
-    position: relative;
+    /* Diana empowers you to understand how your body works so you can look and feel your best */
+    position: absolute;
     width: 308px;
     height: 75px;
     left: 33px;
-    top: 37px;
+    top: 160px;
 
     font-family: "Poppins", sans-serif;
     font-style: normal;
@@ -60,13 +67,110 @@
     color: #000000;
 }
 
+.p4 {
+    /* Our Philosophy */
+
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 99px;
+    top: 290px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+
+    color: #1b1b50;
+}
+
+.p5 {
+    /* Sustainable wellness is a big-picture, inside out approach */
+    position: absolute;
+    width: 303px;
+    height: 132px;
+    left: 35px;
+    top: 343px;
+
+    font-family: "Spectral";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 134.8%;
+    /* or 44px */
+
+    text-align: center;
+
+    color: #1b1b50;
+}
+
+.p6 {
+    position: absolute;
+    width: 308px;
+    height: 232px;
+    left: 33px;
+    top: 530px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+
+    text-align: center;
+
+    color: #1b1b50;
+}
+
+.dmsans_400 {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+
+    text-align: center;
+
+    color: #1b1b50;
+}
+.p7 {
+    position: absolute;
+    width: 309px;
+    left: 32px;
+    top: 902px;
+}
+
+.p8 {
+    position: absolute;
+    width: 309px;
+    left: 32px;
+    top: 1100px;
+}
+
+.p9 {
+    position: absolute;
+    width: 309px;
+    left: 32px;
+    top: 1300px;
+}
+
 .line1 {
-    position: relative;
+    position: absolute;
     width: 297px;
     height: 0px;
     left: 46px;
-    top: 35px;
+    top: 275px;
     background-color: #000000;
 
     border: 1px solid #000000;
+}
+
+.testtube {
+    position: absolute;
+    top: 807px;
+    left: 40.53%;
 }
