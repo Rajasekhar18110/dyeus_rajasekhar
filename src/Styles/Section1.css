@@ -1,6 +1,6 @@
 .section1 {
     position: relative;
-    height: 1622px;
+    height: 1572px;
     width: 375px;
     /* top: 63px; */
     background: linear-gradient(
@@ -158,6 +158,13 @@
     top: 1300px;
 }
 
+.p10 {
+    position: absolute;
+    width: 308px;
+    left: 33px;
+    top: 1400px;
+}
+
 .line1 {
     position: absolute;
     width: 297px;
@@ -172,5 +179,17 @@
 .testtube {
     position: absolute;
     top: 807px;
+    left: 40.53%;
+}
+
+.spark {
+    position: absolute;
+    top: 1010px;
+    left: 40.53%;
+}
+
+.phone {
+    position: absolute;
+    top: 1224px;
     left: 40.53%;
 }

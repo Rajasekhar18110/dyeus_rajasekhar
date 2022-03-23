@@ -1,0 +1,123 @@
+.section3 {
+    position: relative;
+    width: 375px;
+    height: 415px;
+    left: 0px;
+
+    background: #dce9e9;
+}
+
+.p14 {
+    position: absolute;
+    height: 66px;
+    left: 33px;
+    top: 40px;
+    margin: 0px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: left;
+
+    color: #1b1b50;
+}
+
+.p15 {
+    position: absolute;
+    height: 86px;
+    left: 33px;
+    top: 142px;
+    margin: 0px;
+
+    font-family: "Spectral", serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    text-align: left;
+
+    color: #000000;
+}
+
+.p16 {
+    position: absolute;
+    height: 145px;
+    left: 33px;
+    top: 250px;
+    margin: 0px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    text-align: left;
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.p17 {
+    position: relative;
+    height: 33px;
+    top: 40px;
+    margin: 0px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+#upgradeButton {
+    position: relative;
+    width: 315px;
+    height: 66px;
+    left: 30px;
+    top: 20px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    background: linear-gradient(
+        297.28deg,
+        #f66e6e 67.01%,
+        rgba(246, 110, 110, 0) 123.71%
+    );
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 70px;
+}
+
+#btnText {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #ffffff;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+#roseImg {
+    position: relative;
+    width: 375px;
+    height: 562px;
+    left: 0px;
+    z-index: -1;
+    top: -150px;
+    margin-bottom: 0px;
+}
