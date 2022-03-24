@@ -4,7 +4,7 @@ import rose from "../images/rose.png"
 
 function Section3() {
     return (
-        <div>
+        <div className="s3_parent">
             <div className="section3">
                 <div>
                     <p className="p14">Liberate your everyday wellness</p>

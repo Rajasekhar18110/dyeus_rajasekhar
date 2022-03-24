@@ -1,7 +1,11 @@
+.s3_parent {
+    height: 904px;
+}
+
 .section3 {
     position: relative;
     width: 375px;
-    height: 415px;
+    height: 411px;
     left: 0px;
 
     background: #dce9e9;
