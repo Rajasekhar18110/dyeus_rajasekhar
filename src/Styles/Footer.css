@@ -1,0 +1,47 @@
+.Footer {
+    position: relative;
+    width: 375px;
+    height: 390px;
+    left: 0px;
+
+    background: #050506;
+}
+
+.facebook {
+    position: absolute;
+    left: 266px;
+    top: 55px;
+}
+
+.twitter {
+    position: absolute;
+    left: 306px;
+    top: 55px;
+}
+
+.links {
+    position: absolute;
+    left: 37px;
+    top: 117px;
+    color: white;
+}
+
+p {
+    margin: 0px;
+}
+
+.linksText {
+    margin-bottom: 10px;
+}
+
+.line2 {
+    position: absolute;
+    width: 306px;
+    height: 0px;
+    left: 38px;
+    top: 257px;
+    /* top: 10px; */
+    background-color: #ffffff;
+
+    border: 0.1px solid #e3f4ff;
+}

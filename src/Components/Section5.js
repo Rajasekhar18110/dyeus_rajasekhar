@@ -18,8 +18,13 @@ function Section5() {
                 <div id="trackPeriodButton">
                     <p id="btnText">Track your period on the app</p>
                 </div>
+
+                <img
+                    src={calendar}
+                    alt="calendar"
+                    className="calendarImg"
+                ></img>
             </div>
-            <img src={calendar} alt="calendar" className="calendarImg"></img>
         </div>
     )
 }
