@@ -10,4 +10,4 @@ Link : https://diana-website-dyeus.herokuapp.com/
 
 ## Screenshots
 
-![image](https://drive.google.com/file/d/12IN8QDRu6AGy4cGXA-4ScpoduJHoY93h/view?usp=sharing)
+
