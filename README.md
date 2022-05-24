@@ -10,6 +10,6 @@ Link : https://diana-website-dyeus.herokuapp.com/
 
 ## Screenshots
 
-![ScreenShot](/readme_images/Screenshot (791).png?raw=true)
+![ScreenShot](./readme_images/Screenshot (791).png?raw=true)
 
 
